@@ -1,8 +1,9 @@
+  /*adds background color and font type*/
 html {
     font-family: Verdana, sans-serif;
-    background-color: #c0d4e8a6;
+    background-color: #d8e7f6a6;
   }
-  
+  /*adds the homepage design and link locations*/
   .link-list {
     width: 70%;
     background-color: #948e8ec2;
@@ -34,9 +35,10 @@ html {
     top: 50%
   }
 
+  /*Link two is made for Dylan's webpage, it changes where the links are located on the page*/
   .link-two{
     width: 70%;
-    background-color: #948e8ec2;
+    background-color: #bcbabad0;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -44,4 +46,19 @@ html {
     transform: translate(-50%, 300%);
     border-radius: 50px;
     overflow: auto;
+  }
+
+  .link-two a {
+    display: flex;
+    justify-content: center;
+    padding: 1.5em;
+    font-size: 1.15em;
+    text-decoration: none;
+    color: white;
+  }
+
+  .link-two a:hover {
+    transition: 50ms;
+    background-color: white;
+    color: rgb(192 212 232);
   }
