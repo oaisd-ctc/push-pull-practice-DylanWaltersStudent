@@ -1,0 +1,9 @@
+.image-label {
+text-align: left;
+max-height: 50%;
+}
+
+.image-label img {
+max-width: 400px;
+max-height: 400px;
+}
