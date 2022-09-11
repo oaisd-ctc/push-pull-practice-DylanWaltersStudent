@@ -1,4 +1,4 @@
-  /*adds background color and font type*/
+/*adds background color and font type*/
 html {
     font-family: Verdana, sans-serif;
     background-color: #d8e7f6a6;
@@ -38,7 +38,7 @@ html {
   /*Link two is made for Dylan's webpage, it changes where the links are located on the page*/
   .link-two{
     width: 70%;
-    background-color: #bcbabad0;
+    background-color: #6e6e6ed0;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -54,7 +54,7 @@ html {
     padding: 1.5em;
     font-size: 1.15em;
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
   }
 
   .link-two a:hover {
