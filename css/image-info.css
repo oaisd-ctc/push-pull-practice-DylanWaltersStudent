@@ -3,7 +3,12 @@ text-align: left;
 max-height: 50%;
 }
 
-.image-label img {
-max-width: 400px;
-max-height: 400px;
+.image-mean img {
+max-width: 33%;
+max-height: 33%;
+}
+
+.image-glare img {
+    max-width: 50%;
+    max-height: 50%;
 }
