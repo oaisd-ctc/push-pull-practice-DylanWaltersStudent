@@ -1,6 +1,7 @@
-.image-label {
+.image-Lizzy img{
 text-align: left;
-max-height: 50%;
+max-width: 35%;
+max-height: 35%;
 }
 
 .image-mean img {
@@ -9,6 +10,6 @@ max-height: 33%;
 }
 
 .image-glare img {
-    max-width: 50%;
-    max-height: 50%;
+max-width: 50%;
+max-height: 50%;
 }

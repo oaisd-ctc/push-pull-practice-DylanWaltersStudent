@@ -8,11 +8,6 @@ html {
     width: 70%;
     background-color: #948e8ec2;
     margin: auto;
-    /* position: ; */
-    /* left: 50%;
-    top: 50%; */
-    /* -webkit-transform: translate(-50%, -50%); */
-    /* transform: translate(-50%, -50%); */
     border-radius: 50px;
     overflow: auto;
   } 
@@ -35,8 +30,3 @@ html {
   .main-links {
     top: 50%
   }
-/*Link two is made for Dylan's webpage, it changes where the links are located on the page*/
-  #link-two {
-  transform: translate(-50%, 00%3); 
-  }
-  
