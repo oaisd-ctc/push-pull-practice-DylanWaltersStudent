@@ -1,0 +1,39 @@
+body {
+    background-color: #60fc68;
+}
+
+.grid {
+    width: 800px;
+    height: 800px;
+    border: 2px solid #207724;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    width: 80px;
+    height: 80px;
+    background-color: #535c54;
+}
+
+.snake {
+    background-color: blue;
+}
+
+.apple {
+    background-color: red;
+    border-radius: 20%;
+}
+
+.popup {
+    background-color: #535c54;
+    width: 10%;
+    height: 20%;
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
